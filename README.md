@@ -1,2 +1,2 @@
-# Douban_flask
-The utility crawler obtains the data of the Douban movie ranking and visualizes it through the flask framework.
+# Sugarcane_segment_flask
+Apply image information and quality relationship model/eeplab3pus semantic segmentation model/Flash framework/Charts plug-in and other technologies to realize.
